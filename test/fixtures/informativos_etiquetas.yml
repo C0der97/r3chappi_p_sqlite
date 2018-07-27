@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  informativo: one
+  etiqueta: one
+
+two:
+  informativo: two
+  etiqueta: two
